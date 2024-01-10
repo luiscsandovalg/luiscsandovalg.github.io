@@ -1,4 +1,4 @@
-# Expediente Secreto
+# EXPEDIENTE SECRETO
 
 ![Logo de Expediente Secreto](img/1.jpg)
 
